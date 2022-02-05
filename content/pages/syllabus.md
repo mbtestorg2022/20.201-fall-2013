@@ -49,9 +49,54 @@ Bloom, William, and Don W. Fawcett. _A Textbook of Histology_. 10th ed. W. B. Sa
 Grading
 -------
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Exam | 30 |
-| Homework | 20 |
-| Case Study Project | 30 |
-| Reading & Discussion of Assigned Papers | 20
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Study Project
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading & Discussion of Assigned Papers
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

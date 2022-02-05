@@ -16,44 +16,590 @@ E = Exam
 Lecturer Key
 ------------
 
-|  {{< br >}}{{< br >}} PD = Prof. Peter Dedon {{< br >}}{{< br >}} MM = Dr. Mark Murcko {{< br >}}{{< br >}} ST = Prof. Steven Tannenbaum {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}   CK = Dr. Charles Knutson {{< br >}}{{< br >}}   GL = Guest lecturer {{< br >}}{{< br >}}   TA = Teaching assistants {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
 
-| SES # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Overview of the Drug Discovery Process; Fundamental Principles**{{< /td-colspan >}} ||||
-| L1 | Introduction and Fundamentals | PD, MM, ST | &nbsp; |
-| L2 | Overview of Drug Development 1 | MM | &nbsp; |
-| L3 | Overview of Drug Development 2 | MM | &nbsp; |
-| R1 | Fundamentals | PD | &nbsp; |
-| L4 | Biochemistry Review Exercise | CK | &nbsp; |
-| L5 | Uptake and Distribution | PD | &nbsp; |
-| L6 | Dr. Keith Hoffmaster, Novartis: Drug Transporters 1 | GL | &nbsp; |
-| L7 | Dr. Keith Hoffmaster, Novartis: Drug Transporters 2 | GL | Drug Metabolism Problem Sets Due |
-| R2 | Drug Metabolism 1 | ST | &nbsp; |
-| L8 | Drug Metabolism 2 | ST | &nbsp; |
-| L9 | Drug Toxicity 1 | ST | &nbsp; |
-| R3 | Lecture Review Session | TA | &nbsp; |
-| L10 | Drug Toxicity 2 | ST | &nbsp; |
-| L11 | Pharmacokinetics | PD | &nbsp; |
-| R4 | Quiz Review | PD, TA |  {{< br >}}{{< br >}} Fundamentals Problem Set Due {{< br >}}{{< br >}} Pharmacokinetics Problem Set Due {{< br >}}{{< br >}}  |
-| E || {{< td-colspan 3 >}}Exam{{< /td-colspan >}} |||
-| {{< td-colspan 4 >}}**Case Studies and Literature Discussions; Case Study Project**{{< /td-colspan >}} ||||
-| L12 | Case Study: Omeprazole Pharmacogenetics | PD | &nbsp; |
-| R5 | Overview of Drug Development 3 | MM | Case Study Project Topic Due |
-| L13 | Case Study | MM | &nbsp; |
-| L14 | Case Study: Antibiotics | CK | &nbsp; |
-| R6 | Project Help Session | TA | &nbsp; |
-| L15 | Case Study | ST | &nbsp; |
-| L16 | Dr. Alex Wood, MIT Senior Lecturer / Novartis: Case Study: Oncology Drugs | GL | &nbsp; |
-| R7 | Project Help Session | TA | &nbsp; |
-| L17 | Case Study: Statins | PD | &nbsp; |
-| R8 | Project Help Session | TA | &nbsp; |
-| L18 | Case Study: GWAS and Statin Toxicity | PD | &nbsp; |
-| L19 | Dr. Bernard Fermini, Pfizer: Case Study: Cardiotoxicity | GL | &nbsp; |
-| R9 | Project Help Session | TA | &nbsp; |
-| L20 | Dr. Teresa Wright, Shire Pharmaceuticals: Preclinical Drug Development | GL | &nbsp; |
-| R10 | Project Help Session | TA | &nbsp; |
-| L21 | Dr. Keith Hoffmaster: Case Study: PK / PD | GL | &nbsp; |
-| L22 | Case Study: Sarilumab Phase III Clinical Result | MM | &nbsp; |
-| R11 | Prof. Doug Lauffenburger: Systems Pharmacology | GL | &nbsp; |
-| L23 | Dr. Tess Schmalbach, Schmalbach LLC: The Clinical Size of Drug Development | GL | Case Study Project Paper Due
+
+PD = Prof. Peter Dedon
+
+MM = Dr. Mark Murcko
+
+ST = Prof. Steven Tannenbaum
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+  CK = Dr. Charles Knutson
+
+  GL = Guest lecturer
+
+  TA = Teaching assistants
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Overview of the Drug Discovery Process; Fundamental Principles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Fundamentals
+{{< tdclose >}}
+{{< tdopen >}}
+PD, MM, ST
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Drug Development 1
+{{< tdclose >}}
+{{< tdopen >}}
+MM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Drug Development 2
+{{< tdclose >}}
+{{< tdopen >}}
+MM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals
+{{< tdclose >}}
+{{< tdopen >}}
+PD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry Review Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+CK
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Uptake and Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+PD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Keith Hoffmaster, Novartis: Drug Transporters 1
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Keith Hoffmaster, Novartis: Drug Transporters 2
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Metabolism Problem Sets Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Metabolism 1
+{{< tdclose >}}
+{{< tdopen >}}
+ST
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Metabolism 2
+{{< tdclose >}}
+{{< tdopen >}}
+ST
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Toxicity 1
+{{< tdclose >}}
+{{< tdopen >}}
+ST
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture Review Session
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Toxicity 2
+{{< tdclose >}}
+{{< tdopen >}}
+ST
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Pharmacokinetics
+{{< tdclose >}}
+{{< tdopen >}}
+PD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz Review
+{{< tdclose >}}
+{{< tdopen >}}
+PD, TA
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fundamentals Problem Set Due
+
+Pharmacokinetics Problem Set Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Case Studies and Literature Discussions; Case Study Project**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study: Omeprazole Pharmacogenetics
+{{< tdclose >}}
+{{< tdopen >}}
+PD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Drug Development 3
+{{< tdclose >}}
+{{< tdopen >}}
+MM
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study Project Topic Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+MM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study: Antibiotics
+{{< tdclose >}}
+{{< tdopen >}}
+CK
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Project Help Session
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+ST
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Alex Wood, MIT Senior Lecturer / Novartis: Case Study: Oncology Drugs
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Project Help Session
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study: Statins
+{{< tdclose >}}
+{{< tdopen >}}
+PD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Project Help Session
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study: GWAS and Statin Toxicity
+{{< tdclose >}}
+{{< tdopen >}}
+PD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Bernard Fermini, Pfizer: Case Study: Cardiotoxicity
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Project Help Session
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Teresa Wright, Shire Pharmaceuticals: Preclinical Drug Development
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Project Help Session
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Keith Hoffmaster: Case Study: PK / PD
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study: Sarilumab Phase III Clinical Result
+{{< tdclose >}}
+{{< tdopen >}}
+MM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Doug Lauffenburger: Systems Pharmacology
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Tess Schmalbach, Schmalbach LLC: The Clinical Size of Drug Development
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study Project Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

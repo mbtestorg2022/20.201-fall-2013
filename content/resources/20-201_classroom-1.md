@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5119f0bc-2ef3-1f46-19c0-3a8bb89247f3
 resourcetype: Image
 title: 20-201_classroom-1.jpg
 uid: ffc8ba07-82fc-1291-13c4-7f5e18de1b4a

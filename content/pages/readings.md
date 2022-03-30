@@ -192,7 +192,7 @@ Drug Toxicity 1
 
 \[Golan\] Chapters 5 and 41
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_Guidance for Industry: Drug-Induced Liver Injury: Premarketing Clinical Evaluation_. (PDF)](https://www.fda.gov/media/116737/download) U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). July 2009.
+[_Guidance for Industry: Drug-Induced Liver Injury: Premarketing Clinical Evaluation_. (PDF)](https://www.fda.gov/media/116737/download) U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). July 2009.
 
 Giacomini, Kathleen M., Shiew-Mei Huang, et al. "[Membrane Transporters in Drug Development](http://dx.doi.org/10.1038/nrd3028)." _Nature Reviews Drug Discovery_ 9, no. 3 (2010): 215–36.
 
